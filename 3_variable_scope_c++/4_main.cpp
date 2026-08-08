@@ -13,7 +13,7 @@ int main() {
 		int x = 30;
 		int y = 20;
 
-		cout << x << " " << y << endl;
+		cout << x << " " << y <<" " << ::x << endl;
 		cout << ::x << endl; //SCOPE RESOLUTION OPERATOR
 	}
 	cout << x << endl;
@@ -22,7 +22,7 @@ int main() {
 
 	return 0;
 }
-
+ 
 
 
 
@@ -43,4 +43,4 @@ int main() {
 
 
 	return 0;
-}*/
+}*/ 
