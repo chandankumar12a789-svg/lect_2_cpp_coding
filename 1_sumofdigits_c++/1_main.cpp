@@ -18,5 +18,6 @@ int main () {
 
 	}
 	cout << "sum = " << sum << endl;
+    return 0;
 
 }
